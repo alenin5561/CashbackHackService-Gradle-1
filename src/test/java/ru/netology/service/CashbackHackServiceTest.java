@@ -26,7 +26,7 @@ public class CashbackHackServiceTest {
     }
 
     @Test
-    public void testRemain3() {
+    public void testRemain4() {
         CashbackHackService service = new CashbackHackService();
 
         int expected = 150;
@@ -37,7 +37,7 @@ public class CashbackHackServiceTest {
     }
 
     @Test
-    public void testRemain4() {
+    public void testRemain5() {
         CashbackHackService service = new CashbackHackService();
 
         int expected = 600;
