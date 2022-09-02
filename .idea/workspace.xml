@@ -63,7 +63,7 @@
       <recent name="ru.netology.service" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.CashbackHackServiceTest.testRemain3">
+  <component name="RunManager" selected="Gradle.CashbackHackServiceTest">
     <configuration name="CashbackHackServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -135,9 +135,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.CashbackHackServiceTest.testRemain3" />
-        <item itemvalue="Gradle.CashbackHackServiceTest.testRemain2" />
         <item itemvalue="Gradle.CashbackHackServiceTest" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.testRemain2" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.testRemain3" />
       </list>
     </recent_temporary>
   </component>
